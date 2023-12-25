@@ -28,7 +28,7 @@ The Receiver also contains functions:
     1) int serw: an integer variable describing the servo where actions will be performed.
     2) int pozycja: an integer variable that, based on the previous position, determines the next one.
 
-## **Device construction
+## **Device construction**
 
 ### Circuitry
 The entire setup comprises the following components:
