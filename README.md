@@ -1,5 +1,3 @@
-# Cyber Hand
-
 ## **Project assumptions:**
 The system's task is to collect information about the position of the hand and its individual fingers by appropriately placing EKG electrodes on the hand. It then utilizes this information to change the position of a cybernetic hand using servomechanisms, ensuring that its position corresponds to that of our hand.
 
