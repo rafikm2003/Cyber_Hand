@@ -36,7 +36,7 @@ The entire setup comprises the following components:
 
 ### Casing and EKG Electrodes
 The entirety is neatly enclosed using a plastic hand created via a 3D printer.
-im1
+![im1](https://github.com/rafikm2003/Cyber_Hand/assets/116646888/7a5d6e02-f38e-4e3b-8e99-6d1141d531fa)
 The second part of the project is essentially our cyber-arm. It includes crucial devices such as the previously mentioned measurement amplifier and a band-pass filter (active), which amplifies the signal and isolates the appropriate frequency.
 im2
 It's worth mentioning the EKG electrodes at the end. The placement of each electrode is crucial for the correct interpretation of values responsible for controlling individual fingers. Below is the specific placement:
