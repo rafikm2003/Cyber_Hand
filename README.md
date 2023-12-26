@@ -43,7 +43,8 @@ The second part of the project is essentially our cyber-arm. It includes crucial
 ![im2](https://github.com/rafikm2003/Cyber_Hand/assets/116646888/ae5b0455-8688-463a-8e59-946c82fe8f16)
 
 It's worth mentioning the EKG electrodes at the end. The placement of each electrode is crucial for the correct interpretation of values responsible for controlling individual fingers. Below is the specific placement:
-im3
+
+![im3](https://github.com/rafikm2003/Cyber_Hand/assets/116646888/f294de07-bde8-4e06-be26-b311aa73c6e6)
 
 The task of the remaining electrodes is to read values responsible for the movement of the entire arm. Their placement depends on the user, which is a drawback of the device, necessitating calibration to the individual user.
 
