@@ -48,4 +48,6 @@ It's worth mentioning the EKG electrodes at the end. The placement of each elect
 
 The task of the remaining electrodes is to read values responsible for the movement of the entire arm. Their placement depends on the user, which is a drawback of the device, necessitating calibration to the individual user.
 
+The built system meets the established requirements.
+
 
